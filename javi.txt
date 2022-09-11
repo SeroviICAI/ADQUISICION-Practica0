@@ -1,1 +1,1 @@
-print("Ya se usar git")
+print("Ya se usar git") <- no es .py, es un txt
